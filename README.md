@@ -1,5 +1,5 @@
 # ☀️ Solar Panel Controller
-*An intelligent sun-tracking system for optimal water heating*
+*An intelligent sun-tracking system for optimal voltaic or water heating solar panels*
 
 ## Project Overview
 This system automatically orients heavy solar panels to maximize sun exposure while preventing mechanical strain. Born from the need to efficiently heat water using solar energy, it combines precise light sensing with robust safety mechanisms.
