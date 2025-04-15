@@ -1,0 +1,431 @@
+{
+  "name": "",
+  "patches": {
+    "@/main": {
+      "links": {
+        "B11c3dZRN": {
+          "id": "B11c3dZRN",
+          "input": {
+            "nodeId": "SJvoFOZAE",
+            "pinKey": "HJ6HsEngZ"
+          },
+          "output": {
+            "nodeId": "SyZ43dbR4",
+            "pinKey": "B1gN80uHvk-"
+          }
+        },
+        "B1S9cuZC4": {
+          "id": "B1S9cuZC4",
+          "input": {
+            "nodeId": "SyZtc_WCN",
+            "pinKey": "r1bVLR_BPJW"
+          },
+          "output": {
+            "nodeId": "SkmXq_bCN",
+            "pinKey": "B19RYS3lW"
+          }
+        },
+        "BJuXcuWA4": {
+          "id": "BJuXcuWA4",
+          "input": {
+            "nodeId": "SkmXq_bCN",
+            "pinKey": "rJg00Nhe-"
+          },
+          "output": {
+            "nodeId": "Sy0AKdbCV",
+            "pinKey": "B1LNICdSDJW"
+          }
+        },
+        "Bk75nO-AE": {
+          "id": "Bk75nO-AE",
+          "input": {
+            "nodeId": "rJeswubRE",
+            "pinKey": "HyYh1a3LZ"
+          },
+          "output": {
+            "nodeId": "Byy4h_bR4",
+            "pinKey": "B1gN80uHvk-"
+          }
+        },
+        "BkXMsuZRN": {
+          "id": "BkXMsuZRN",
+          "input": {
+            "nodeId": "B1cccdbAE",
+            "pinKey": "r1bVLR_BPJW"
+          },
+          "output": {
+            "nodeId": "SkmXq_bCN",
+            "pinKey": "B19RYS3lW"
+          }
+        },
+        "By0x9ubRN": {
+          "id": "By0x9ubRN",
+          "input": {
+            "nodeId": "B1ie5d-A4",
+            "pinKey": "BypX80uSD1Z"
+          },
+          "output": {
+            "nodeId": "r1edu_-CN",
+            "pinKey": "SyBtREhlW"
+          }
+        },
+        "ByzOYdZAE": {
+          "id": "ByzOYdZAE",
+          "input": {
+            "nodeId": "HJDPY_-AE",
+            "pinKey": "HJbACN3gb"
+          },
+          "output": {
+            "nodeId": "ByzOO_WR4",
+            "pinKey": "SyBtREhlW"
+          }
+        },
+        "H1MMsu-C4": {
+          "id": "H1MMsu-C4",
+          "input": {
+            "nodeId": "B1cccdbAE",
+            "pinKey": "SJMVU0urvkZ"
+          },
+          "output": {
+            "nodeId": "rkRbsu-AV",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "H1gdtOZ0V": {
+          "id": "H1gdtOZ0V",
+          "input": {
+            "nodeId": "HJDPY_-AE",
+            "pinKey": "rJg00Nhe-"
+          },
+          "output": {
+            "nodeId": "r1edu_-CN",
+            "pinKey": "SyBtREhlW"
+          }
+        },
+        "HkfWquWRV": {
+          "id": "HkfWquWRV",
+          "input": {
+            "nodeId": "Sy0AKdbCV",
+            "pinKey": "H1SVIAuBDJZ"
+          },
+          "output": {
+            "nodeId": "B1ie5d-A4",
+            "pinKey": "HyRmUCdBDkZ"
+          }
+        },
+        "HyZq2_ZRV": {
+          "id": "HyZq2_ZRV",
+          "input": {
+            "nodeId": "ryQwuuZAV",
+            "pinKey": "HJ6HsEngZ"
+          },
+          "output": {
+            "nodeId": "Byy4h_bR4",
+            "pinKey": "B1gN80uHvk-"
+          }
+        },
+        "HyaLh_ZCV": {
+          "id": "HyaLh_ZCV",
+          "input": {
+            "nodeId": "Byy4h_bR4",
+            "pinKey": "SJMVU0urvkZ"
+          },
+          "output": {
+            "nodeId": "rkvI3uWCV",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "S1kzsO-0N": {
+          "id": "S1kzsO-0N",
+          "input": {
+            "nodeId": "rkRbsu-AV",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "HJDPY_-AE",
+            "pinKey": "B19RYS3lW"
+          }
+        },
+        "SJqI2dWCV": {
+          "id": "SJqI2dWCV",
+          "input": {
+            "nodeId": "BkFLh_Z0V",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "HJD9vu-04",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "SkQ9cOZAV": {
+          "id": "SkQ9cOZAV",
+          "input": {
+            "nodeId": "SyZtc_WCN",
+            "pinKey": "SJMVU0urvkZ"
+          },
+          "output": {
+            "nodeId": "HJDPY_-AE",
+            "pinKey": "B19RYS3lW"
+          }
+        },
+        "SkgbcObAE": {
+          "id": "SkgbcObAE",
+          "input": {
+            "nodeId": "B1ie5d-A4",
+            "pinKey": "rkJ4URuHDJ-"
+          },
+          "output": {
+            "nodeId": "ByzOO_WR4",
+            "pinKey": "SyBtREhlW"
+          }
+        },
+        "SyRU3uWRN": {
+          "id": "SyRU3uWRN",
+          "input": {
+            "nodeId": "SyZ43dbR4",
+            "pinKey": "SJMVU0urvkZ"
+          },
+          "output": {
+            "nodeId": "BkFLh_Z0V",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "r1pt3_WCV": {
+          "id": "r1pt3_WCV",
+          "input": {
+            "nodeId": "Sk_ow_W0N",
+            "pinKey": "HyYh1a3LZ"
+          },
+          "output": {
+            "nodeId": "SyZ43dbR4",
+            "pinKey": "B1gN80uHvk-"
+          }
+        },
+        "rJjIn_-CE": {
+          "id": "rJjIn_-CE",
+          "input": {
+            "nodeId": "rkvI3uWCV",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "Byr9vubAV",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "rkSNn_-RN": {
+          "id": "rkSNn_-RN",
+          "input": {
+            "nodeId": "Byy4h_bR4",
+            "pinKey": "r1bVLR_BPJW"
+          },
+          "output": {
+            "nodeId": "SyZtc_WCN",
+            "pinKey": "B1gN80uHvk-"
+          }
+        },
+        "rkYE2OZRV": {
+          "id": "rkYE2OZRV",
+          "input": {
+            "nodeId": "SyZ43dbR4",
+            "pinKey": "r1bVLR_BPJW"
+          },
+          "output": {
+            "nodeId": "B1cccdbAE",
+            "pinKey": "B1gN80uHvk-"
+          }
+        }
+      },
+      "nodes": {
+        "B1cccdbAE": {
+          "id": "B1cccdbAE",
+          "label": "Check Turn Right",
+          "position": {
+            "x": 15,
+            "y": 2,
+            "units": "slots"
+          },
+          "type": "xod/core/and"
+        },
+        "B1ie5d-A4": {
+          "id": "B1ie5d-A4",
+          "position": {
+            "x": 15,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/core/subtract"
+        },
+        "BkFLh_Z0V": {
+          "id": "BkFLh_Z0V",
+          "position": {
+            "x": 21,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "Byr9vubAV": {
+          "id": "Byr9vubAV",
+          "label": "Left Stop",
+          "position": {
+            "x": 1,
+            "y": -2,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "Byy4h_bR4": {
+          "id": "Byy4h_bR4",
+          "label": "Check Left Stop",
+          "position": {
+            "x": 1,
+            "y": 3,
+            "units": "slots"
+          },
+          "type": "xod/core/and"
+        },
+        "ByzOO_WR4": {
+          "id": "ByzOO_WR4",
+          "label": "Right Sensor",
+          "position": {
+            "x": 15,
+            "y": -2,
+            "units": "slots"
+          },
+          "type": "xod/gpio/analog-read"
+        },
+        "HJD9vu-04": {
+          "id": "HJD9vu-04",
+          "label": "Right Stop",
+          "position": {
+            "x": 21,
+            "y": -2,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "HJDPY_-AE": {
+          "id": "HJDPY_-AE",
+          "label": "Left or Right",
+          "position": {
+            "x": 7,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/core/greater"
+        },
+        "SJvoFOZAE": {
+          "id": "SJvoFOZAE",
+          "label": "Go Right",
+          "position": {
+            "x": 20,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/gpio/digital-write"
+        },
+        "Sk_ow_W0N": {
+          "id": "Sk_ow_W0N",
+          "label": "Go Right Led",
+          "position": {
+            "x": 16,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/led"
+        },
+        "SkmXq_bCN": {
+          "boundLiterals": {
+            "HJbACN3gb": "50"
+          },
+          "id": "SkmXq_bCN",
+          "label": "Above threshold to move",
+          "position": {
+            "x": 15,
+            "y": 1,
+            "units": "slots"
+          },
+          "type": "xod/core/greater"
+        },
+        "Sy0AKdbCV": {
+          "id": "Sy0AKdbCV",
+          "position": {
+            "x": 15,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "xod/math/abs"
+        },
+        "SyZ43dbR4": {
+          "id": "SyZ43dbR4",
+          "label": "Check Right Stop",
+          "position": {
+            "x": 21,
+            "y": 3,
+            "units": "slots"
+          },
+          "type": "xod/core/and"
+        },
+        "SyZtc_WCN": {
+          "id": "SyZtc_WCN",
+          "label": "Check Turn Left",
+          "position": {
+            "x": 7,
+            "y": 2,
+            "units": "slots"
+          },
+          "type": "xod/core/and"
+        },
+        "r1edu_-CN": {
+          "id": "r1edu_-CN",
+          "label": "Left Sensor",
+          "position": {
+            "x": 7,
+            "y": -2,
+            "units": "slots"
+          },
+          "type": "xod/gpio/analog-read"
+        },
+        "rJeswubRE": {
+          "id": "rJeswubRE",
+          "label": "Go Left Led",
+          "position": {
+            "x": 1,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/led"
+        },
+        "rkRbsu-AV": {
+          "id": "rkRbsu-AV",
+          "position": {
+            "x": 9,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "rkvI3uWCV": {
+          "id": "rkvI3uWCV",
+          "position": {
+            "x": 1,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "ryQwuuZAV": {
+          "id": "ryQwuuZAV",
+          "label": "Go Left",
+          "position": {
+            "x": 5,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/gpio/digital-write"
+        }
+      },
+      "path": "@/main"
+    }
+  }
+}
