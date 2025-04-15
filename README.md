@@ -22,7 +22,8 @@ This system automatically orients heavy solar panels to maximize sun exposure wh
   - Custom LDR light sensor class
   - Debounced Button class for switches
   - Timer-based operation
-- **XOD Version**: `/XOD` - Visual programming alternative
+- **XOD Version**: `/XOD` - Visual programming alternative  
+  ![XOD Implementation](https://github.com/art-defcon/solar-controller/blob/master/XOD/XodMain.png)
 
 ## Tools & Libraries
 - **Arduino IDE** - Primary development environment
